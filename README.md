@@ -19,7 +19,7 @@ Questions to answer:
 - How many orders per month, on average, are not delivered for various reasons (display details by reasons)?
 - For each product, determine on which day of the week the product is most often bought.
 - How many purchases does each user make on average per week (by months)? 
-- Using pandas, conduct a [cohort analysis](https://github.com/runaevalina/Marketing_and_Sales/tree/main/RFM_and_Cohorts) of users. Between January and December, identify the cohort with the highest retention for the 3rd month.
+- Using pandas, conduct a [cohort analysis](https://github.com/runaevalina/Marketing_and_Sales/blob/main/RFM_and_Cohorts/e-commerce%20(cohorts%2C%20retention).ipynb) of users. Between January and December, identify the cohort with the highest retention for the 3rd month.
 
 
 2a. RFM user segmentation.
